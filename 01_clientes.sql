@@ -1,6 +1,5 @@
 ------ Tabla: clientes
------- Descripción: Información base de clientes para
------- procesos de cobranzas y analítica
+------ Descripción: Información base de clientes para procesos de cobranzas y analítica
 ------ Autor: Evelyn H. Alvarez
 
 CREATE TABLE clientes (
