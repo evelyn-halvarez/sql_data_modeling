@@ -1,5 +1,12 @@
----- Tabla: obligaciones
----- Descripción: Obligaciones financieras de los clientes
+/*
+Archivo: 02_obligaciones.sql
+Descripcion: Definición de la tabla de obligaciones financieras.
+Relaciona clientes con sus productos , saldos, estados de mora
+y fechas clave para procesos de cobranza.
+
+Autor: Evelyn H. Alvarez
+Fecha: 2025
+*/
 
 CREATE TABLE obligaciones (
   id_obligacion INT PRIMARY KEY,
