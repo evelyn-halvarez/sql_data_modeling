@@ -1,6 +1,11 @@
------ Indicadores de recuperacion de cartera
------ Descripción: Métricas clave de seguimiento de
------ cobranzas y efectividad de pagos
+/*
+Archivo: 04_indicadores_recuperacion.sql
+Descripción: Consultas para cálculo de indicadores de recuperación,
+efectividad de cobranza y comportamiento de pago.
+
+Autor: Evelyn H. Alvarez
+Fecha: 2025
+*/
 
 ----- Indicador 1: Saldo Total por estado de obligación
 SELECT 
