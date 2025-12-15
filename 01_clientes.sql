@@ -1,6 +1,12 @@
------- Tabla: clientes
------- Descripción: Información base de clientes para procesos de cobranzas y analítica
------- Autor: Evelyn H. Alvarez
+/*
+Archivo: 01_clientes.sql
+Descripción: Creación de la tabla de clientes.
+Incluye información básica, segmentación y estado del cliente
+para análisis de cobranza.
+
+Autor: Evelyn H. Alvarez
+fecha: 2025
+*/
 
 CREATE TABLE clientes (
   id_cliente INT PRIMARY KEY,
